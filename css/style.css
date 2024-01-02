@@ -9,7 +9,6 @@ body{
     justify-content: center;
     min-height: 100vh;
     background: #ddf;
-    font-family: 'Poppins', sans-serif;
 }
 .container{
     position: relative;
