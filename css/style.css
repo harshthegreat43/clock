@@ -45,7 +45,6 @@ body{
     font-size: 40px;
     transform: rotate(calc(30deg*(var(--i))));
     color: #fff;
-    text-shadow: 0 0 10px #fff;
 }
 .clock .hr{
     position: absolute;
