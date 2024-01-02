@@ -122,7 +122,6 @@ body{
         position: absolute;
         inset: 10px;
         font-size: 20px;
-        text-shadow: 0 0 8px #fff;
     }
     .clock .hr{
         height: 80px;
